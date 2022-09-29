@@ -2,7 +2,7 @@
   "name": "newapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yosfshyo.github.io/Crud-app-with-redux-Toolkit/",
+  "homepage": "https://yosfshyo.github.io/Crud-app-with-Redux-Toolkit/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@testing-library/jest-dom": "^5.16.5",
